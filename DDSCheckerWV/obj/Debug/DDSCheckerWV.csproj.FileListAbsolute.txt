@@ -1,0 +1,9 @@
+D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\bin\Debug\DDSCheckerWV.exe.config
+D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\bin\Debug\DDSCheckerWV.exe
+D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\bin\Debug\DDSCheckerWV.pdb
+D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.csprojResolveAssemblyReference.cache
+D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.Form1.resources
+D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.Properties.Resources.resources
+D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.csproj.GenerateResource.Cache
+D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.exe
+D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.pdb

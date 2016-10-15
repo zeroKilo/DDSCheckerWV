@@ -42,7 +42,7 @@
             this.rtb1.Font = new System.Drawing.Font("Courier New", 10F);
             this.rtb1.Location = new System.Drawing.Point(0, 24);
             this.rtb1.Name = "rtb1";
-            this.rtb1.Size = new System.Drawing.Size(1082, 549);
+            this.rtb1.Size = new System.Drawing.Size(1082, 651);
             this.rtb1.TabIndex = 4;
             this.rtb1.Text = "";
             this.rtb1.WordWrap = false;
@@ -76,7 +76,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(1082, 573);
+            this.ClientSize = new System.Drawing.Size(1082, 675);
             this.Controls.Add(this.rtb1);
             this.Controls.Add(this.menuStrip1);
             this.MainMenuStrip = this.menuStrip1;

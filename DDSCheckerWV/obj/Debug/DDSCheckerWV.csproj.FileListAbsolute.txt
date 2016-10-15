@@ -7,3 +7,12 @@ D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.Properties.Resources
 D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.csproj.GenerateResource.Cache
 D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.exe
 D:\CODE\c#\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.pdb
+D:\CODE\GitHub\DDSCheckerWV\DDSCheckerWV\bin\Debug\DDSCheckerWV.exe.config
+D:\CODE\GitHub\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.exe
+D:\CODE\GitHub\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.pdb
+D:\CODE\GitHub\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.csprojResolveAssemblyReference.cache
+D:\CODE\GitHub\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.Form1.resources
+D:\CODE\GitHub\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.Properties.Resources.resources
+D:\CODE\GitHub\DDSCheckerWV\DDSCheckerWV\obj\Debug\DDSCheckerWV.csproj.GenerateResource.Cache
+D:\CODE\GitHub\DDSCheckerWV\DDSCheckerWV\bin\Debug\DDSCheckerWV.exe
+D:\CODE\GitHub\DDSCheckerWV\DDSCheckerWV\bin\Debug\DDSCheckerWV.pdb
